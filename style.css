@@ -1,0 +1,8 @@
+body{
+background-color:green;
+
+}
+
+.fa-trash-alt{
+    pointer-events:none;
+}
